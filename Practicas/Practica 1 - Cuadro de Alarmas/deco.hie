@@ -1,0 +1,2 @@
+deco.vhd #Entity entdeco 6
+deco.vhd #Architecture arqdeco entdeco 11

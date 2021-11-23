@@ -1,0 +1,6 @@
+ENTITY entdeco IS
+    PORT (
+	entry : in std_logic_vector (1 downto 0) ; 
+	display : inout std_logic_vector (6 downto 0)
+    ) ;
+END entdeco ;

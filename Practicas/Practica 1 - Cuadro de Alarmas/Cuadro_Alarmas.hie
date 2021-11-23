@@ -1,0 +1,2 @@
+CuadroAlarmas.vhd #Entity entcuadroalarmas 6
+CuadroAlarmas.vhd #Architecture arqcuadroalarmas entcuadroalarmas 12
